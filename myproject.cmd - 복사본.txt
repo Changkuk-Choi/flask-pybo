@@ -1,0 +1,7 @@
+@echo off
+set FLASK_APP=pybo
+set FLASK_DEBUG=true
+
+rem cd C:\Users\USER\PycharmProjects\StockWebFlask
+rem C:\Users\USER\anaconda3\envs\env_flask/scripts/activate
+
